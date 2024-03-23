@@ -98,3 +98,4 @@ function saveSearch(searchinput) {
 
 // render image of the day
 getCurrentImageOfTheDay();
+addSearchToHistory()
